@@ -1,0 +1,47 @@
+{
+  "0": {
+    "student_id": 1,
+    "name": "chandini",
+    "roll": "20221CSE0633"
+  },
+  "1": {
+    "student_id": 2,
+    "name": "chandini",
+    "roll": "20221CSE0976"
+  },
+  "2": {
+    "student_id": 3,
+    "name": "chand",
+    "roll": "20221ccs789"
+  },
+  "3": {
+    "student_id": 4,
+    "name": "chand",
+    "roll": "23456"
+  },
+  "4": {
+    "student_id": 5,
+    "name": "chandini",
+    "roll": "0633"
+  },
+  "5": {
+    "student_id": 6,
+    "name": "chands",
+    "roll": "1987"
+  },
+  "6": {
+    "student_id": 7,
+    "name": "aaptha",
+    "roll": "0648"
+  },
+  "7": {
+    "student_id": 8,
+    "name": "akhila",
+    "roll": "0651"
+  },
+  "8": {
+    "student_id": 9,
+    "name": "chandini c",
+    "roll": "0621"
+  }
+}
